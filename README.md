@@ -5,7 +5,7 @@ I'm KiraKira <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10
 
 <hr>
 
-<h2 align="center"><span style=font-size:15px;"15px</span><br>現役遊戲2D美術 <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" width="25"><br>目前正在努力的學習html css js
+<h2 align="center"><span style=font-size:15px;"15px</span><br>現役 2D遊戲美術 <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" width="25"><br>目前正在努力的學習html css js
 
 <br><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 
