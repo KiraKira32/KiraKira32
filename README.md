@@ -1,6 +1,6 @@
 <h1 align="center"><span style=font-size:20px;"20px</span>
 Hi  <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="25"> 
-I'm KiraKira <img src="https://emojis.slackmojis.com/emojis/images/1643514770/7808/party-blob.gif?1643514770" width="30"> 
+I'm KiraKira :) <img src="https://emojis.slackmojis.com/emojis/images/1643514770/7808/party-blob.gif?1643514770" width="30"> 
 </h1>
 
 <hr>
