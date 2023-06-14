@@ -1,10 +1,9 @@
-<h3 align="center"><span style=font-size:20px;"20px</span>
-Hi  <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="25"> 
-I'm KiraKira :)
-</h3>
-
+<h1>Hi 我是Asher</h1>
 <hr>
-
-<h2 align="center"><span style=font-size:15px;"15px</span><img src="https://emojis.slackmojis.com/emojis/images/1643515146/11614/pop_cat.gif?1643515146" width="25"><br>目標是轉職成為前端工程師 <br>正在努力的學習html css js <img src="https://emojis.slackmojis.com/emojis/images/1643514867/8787/fb-hug.png?1643514867" width="20">
-
-
+<div>我是一名跨領域轉職的前端新手工程師</div>
+<div>目前正在學習 Vue Bootstrap</div>
+<h2>前端作品</h2>
+<hr>
+<div>
+  <a href="https://kirakira32.github.io/GUNDAM/#/">鋼彈GUNDAM</a><sapn>：電商購物網站</span>
+</div>
